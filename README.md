@@ -28,8 +28,6 @@ O roteiro foi criado com auxílio de **IA generativa**, seguindo um formato curt
 > The format of the script must follow: **INTRODUCTION**, **CURIOSITY 1**, **CURIOSITY 2**, **FINALIZATION**.  
 > [...] *Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focando em front-end, cujo nome é "React dos Anéis - Mágia e código na mesma tela" e tem como foco em front-end, com o público alvo de iniciantes em front-end. O formato do roteiro deve ser: ***INTRODUÇÃO*** ***CURIOSIDADE 1*** ***CURIOSIDADE 2*** ***FINALIZAÇÃO*** Regras do roteiro - No bloco ***INTRODUÇÃO*** substitua por uma introdução iguais as introduções dos vídeos do canal "Ei nerd", como se fossem escritos pelo Peter Jordan. - No bloco ***CURIOSIDADE 1*** substitua por uma curiosidade de CSS. - No bloco ***CURIOSIDADE 2*** sobre uma ferramenta para front-ends. - No bloco ***FINALIZAÇÃO*** substitua por uma despedida legal com o final "Eu sou o Igor e esse foi o React dos Anéis dessa semana.". - Use termos de fácil explicação. - O podcast vai ser apresentado por somente uma pessoa, chamada de Igor. - O podcast deve ser curto. Regras negativas - Não use muitos termos técnicos. - Não ultrapasse 5 minutos de duração.*
 
-O roteiro final gerado pode ser lido abaixo 👇
-
 ---
 
 ## 🖼️ Prompt utilizado para a capa do podcast
